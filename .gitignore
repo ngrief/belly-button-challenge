@@ -1,0 +1,20 @@
+# Node.js dependencies (if you use npm or yarn for packages)
+node_modules/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Local development datasets
+data/samples.json
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Ignore VSCode settings if shared
+.vscode/
+
+# Ignore built or cached files
+dist/
+build/
